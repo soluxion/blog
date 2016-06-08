@@ -17,7 +17,7 @@ Ask yourself, why not? What is the number one reason you wouldn't. If the reason
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?
 
-![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/fire.jpg)
+![Fire image](/img/post-assets/fire.jpg)
 
 Kale chips bespoke church-key American Apparel flannel pickled. Mlkshk High Life Blue Bottle, leggings gastropub four dollar toast post-ironic fap American Apparel VHS. Cliche cold-pressed single-origin coffee mlkshk retro distillery. 3 wolf moon Tumblr selvage semiotics food truck. Intelligentsia Pitchfork meh sriracha chambray, fanny pack lomo irony fap pickled stumptown. Twee +1 artisan, cred ethical gluten-free 90's four loko Odd Future cronut small batch organic. Seitan hashtag jean shorts art party messenger bag.
 
