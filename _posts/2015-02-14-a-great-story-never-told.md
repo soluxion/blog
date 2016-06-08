@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse quam provident accusamus vero autem culpa illum quo enim maiores eius error, sapiente inventore cum hic earum. Libero porro quisquam harum.
 
-![iceland]({{site.url}}/{{site.baseurl}}img/post-assets/iceland.jpg)
+![iceland](/img/post-assets/iceland.jpg)
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam nihil eum cum quas! Consectetur aliquam molestias quos voluptatum recusandae accusantium eaque sed architecto esse. Ut obcaecati, porro numquam sed. Odio.
