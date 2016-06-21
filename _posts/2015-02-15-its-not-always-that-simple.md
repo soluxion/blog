@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2015-02-10
-categories: entreprenuership
+categories: entrepreneurship
 author_name : Michelle Jones
 author_url : /author/michelle
 author_avatar: michelle
