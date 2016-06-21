@@ -2,7 +2,7 @@
 layout: post
 title:  "10 Reasons to travel the world"
 date: 2015-02-11 08:50:28
-categories: thesis storytime
+categories: thesis philosophy
 author_name : Michelle Jones
 author_url : /author/michelle
 author_avatar: michelle
