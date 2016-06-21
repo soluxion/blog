@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-02-10
-categories: storytime life journey
+categories: storytime philosophy
 author_name : Michelle Jones
 author_url : /author/michelle
 author_avatar: michelle
