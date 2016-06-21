@@ -3,8 +3,8 @@ layout: post-sidebar
 date: 2015-02-10
 title: "Why React JS Will Change the World"
 categories: coding js
-author_name : Dan Robberts
-author_url : /author/dan
+author_name : Ayo Kolapo
+author_url : /author/ayo
 author_avatar: dan
 show_avatar : true
 read_time : 22
