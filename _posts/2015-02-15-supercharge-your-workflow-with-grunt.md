@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-02-11 08:50:28
-categories: coding js
+categories: future
 author_name : Dan Robberts
 author_url : /author/dan
 author_avatar: dan
