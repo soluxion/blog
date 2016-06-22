@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Author
-permalink: /about/
+permalink: author/ayo/
 feature_image: feature-sea
 author_avatar: ayo
 author_name: Ayo Kolapo
