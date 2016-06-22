@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 title: "Burning a Strange Evil"
-date: 2015-02-11 08:50:28
+date: 2016-06-21 08:50:28
 categories: storytime
 author_name : Ayo Kolapo
 author_url : /author/ayo
