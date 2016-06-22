@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-title: "CSS with Superpowers"
+title: "Burning a Strange Evil"
 date: 2015-02-11 08:50:28
 categories: thesis
 author_name : Ayo Kolapo
