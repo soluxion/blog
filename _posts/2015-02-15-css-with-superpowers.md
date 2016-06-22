@@ -2,7 +2,7 @@
 layout: post-sidebar
 title: "CSS with Superpowers"
 date: 2015-02-11 08:50:28
-categories: coding css
+categories: thesis
 author_name : Ayo Kolapo
 author_url : /author/ayo
 author_avatar: ayo
