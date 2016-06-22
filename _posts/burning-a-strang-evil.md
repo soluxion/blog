@@ -5,7 +5,7 @@ date: 2016-06-21 08:50:28
 categories: storytime
 author_name : Ayo Kolapo
 author_url : /author/ayo
-author_avatar: michelle
+author_avatar: ayo
 show_avatar : true
 read_time : 34
 feature_image: feature-fire
