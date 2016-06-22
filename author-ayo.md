@@ -1,11 +1,11 @@
 ---
 layout: author
 title: Author
-permalink: author/michelle/
+permalink: author/ayo/
 feature_image: feature-sea
-author_avatar: michelle
-author_name: Michelle Jones
-title: Michelle Jones
+author_avatar: ayo
+author_name: Ayo Kolapo
+title: Ayo Kolapo
 fav_posts:
   post_1 : ['12 Reasons to quite your job','ten-reasons-to-travel-the-world/', 'Ask yourself, why not? What is the number one reason you wouldn’t. If the reason you get back is fear, you should just do it.']
   post_2 : ['CSS with Superpowers', 'css-with-superpowers/', 'Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.']
@@ -14,7 +14,7 @@ fav_posts:
 
 ---
 
-# Michelle Jones
+# Ayo Kolapo
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
 
