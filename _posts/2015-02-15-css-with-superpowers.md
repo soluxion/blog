@@ -2,7 +2,7 @@
 layout: post-sidebar
 title: "Burnibg a Strange Evil"
 date: 2016-06-21 08:50:28
-categories: 
+categories: storytime
 author_name : Ayo Kolapo
 author_url : /author/ayo
 author_avatar: michelle
