@@ -2,7 +2,7 @@
 layout: post-sidebar
 date: 2015-02-10
 title: "Why React JS Will Change the World"
-categories: Physics
+categories: 
 author_name : Ayo Kolapo
 author_url : /author/ayo
 author_avatar: dan
