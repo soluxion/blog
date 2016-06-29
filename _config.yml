@@ -13,7 +13,7 @@ nav_list:
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', 'https://www.linkedin.com/in/ayokolapo', 'fa-user']
-single_footer: '<p> Ayo Kolapo &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>Ayo Kolapo &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
     Writer: ['Ayo Kolapo 2016', '/about']
